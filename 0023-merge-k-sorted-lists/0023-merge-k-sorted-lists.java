@@ -13,20 +13,19 @@ class Solution {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         for(int i=0;i<lists.length;i++)
         {
-            ListNode temp=lists[i];
+            ListNode temp = lists[i];
             while(temp!=null)
             {
                 pq.add(temp.val);
                 temp=temp.next;
             }
-
         }
         ListNode dn = new ListNode(-1);
         ListNode t = dn;
         while(pq.size()!=0)
         {
-            int t1 = pq.poll();
-            t.next=new ListNode(t1);
+            int n = pq.poll();
+            t.next=new ListNode(n);
             t=t.next;
         }
         return dn.next;
