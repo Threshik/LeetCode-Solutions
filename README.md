@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Threshik/LeetCode1/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Threshik/LeetCode1/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Threshik/LeetCode1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Threshik/LeetCode1/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Threshik/LeetCode1/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Threshik/LeetCode1/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
