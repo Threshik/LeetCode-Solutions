@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Threshik/LeetCode1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
+| [0742-to-lower-case](https://github.com/Threshik/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
