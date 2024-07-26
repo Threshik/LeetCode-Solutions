@@ -10,9 +10,9 @@ class Solution {
             int min =Math.min(height[i],height[j]);
             if(diff*min>max)
             max=diff*min;
-            if(min==height[i])
+            if(height[i]<height[j])
             i++;
-            if(min==height[j])
+            else
             j--;
         }
         return max;
