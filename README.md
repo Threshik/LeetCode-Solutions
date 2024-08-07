@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 ## Breadth-First Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Threshik/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Threshik/LeetCode1/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Threshik/LeetCode1/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Threshik/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
