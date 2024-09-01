@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2857-total-distance-traveled](https://github.com/Threshik/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 ## Dynamic Programming
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Threshik/LeetCode1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Threshik/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Threshik/LeetCode1/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2857-total-distance-traveled](https://github.com/Threshik/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
