@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Threshik/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 ## Breadth-First Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Threshik/LeetCode1/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Threshik/LeetCode1/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Threshik/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
