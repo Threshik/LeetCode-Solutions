@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Threshik/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Threshik/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Threshik/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Threshik/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Threshik/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Threshik/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Threshik/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Threshik/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Threshik/LeetCode1/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Threshik/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Threshik/LeetCode1/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Threshik/LeetCode1/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
