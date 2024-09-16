@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Threshik/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/Threshik/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [2857-total-distance-traveled](https://github.com/Threshik/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Threshik/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/Threshik/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/Threshik/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/Threshik/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Threshik/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Threshik/LeetCode1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Threshik/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Threshik/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
