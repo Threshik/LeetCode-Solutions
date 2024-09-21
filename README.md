@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Threshik/LeetCode1/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Threshik/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
