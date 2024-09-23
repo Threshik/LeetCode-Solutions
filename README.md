@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Threshik/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Threshik/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Threshik/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Threshik/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Threshik/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
