@@ -9,20 +9,7 @@
  * }
  */
 class Solution {
-    static ListNode reverse(ListNode head)
-    {
-        ListNode curr=head;
-        ListNode prev=null;
-        ListNode Next=null;
-        while(curr!=null)
-        {
-            Next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=Next;
-        }
-        return prev;
-    }
+   
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
         int carry=0;
