@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Threshik/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Threshik/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Threshik/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Threshik/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Threshik/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Threshik/LeetCode1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Threshik/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Threshik/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bucket Sort
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Threshik/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
