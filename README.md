@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Threshik/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Threshik/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Threshik/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Threshik/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Threshik/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Threshik/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bucket Sort
