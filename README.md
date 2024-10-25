@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Threshik/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Threshik/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Threshik/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Threshik/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Threshik/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Threshik/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Threshik/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
