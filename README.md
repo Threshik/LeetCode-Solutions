@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Threshik/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
