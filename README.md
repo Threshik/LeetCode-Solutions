@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Threshik/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Threshik/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Threshik/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Threshik/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Threshik/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Threshik/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Threshik/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Threshik/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Threshik/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Threshik/LeetCode1/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Threshik/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Threshik/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Threshik/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
 | ------- |
