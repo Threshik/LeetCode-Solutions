@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Threshik/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Threshik/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Threshik/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Threshik/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Threshik/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Threshik/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Threshik/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Threshik/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
