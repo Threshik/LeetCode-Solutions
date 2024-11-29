@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Threshik/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Threshik/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Threshik/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Tree
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Threshik/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Threshik/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Threshik/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Threshik/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Threshik/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Threshik/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -502,6 +506,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
