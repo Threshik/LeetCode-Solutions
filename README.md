@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Threshik/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Threshik/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Threshik/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Threshik/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Threshik/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Threshik/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Threshik/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Threshik/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Threshik/LeetCode1/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Threshik/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Threshik/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/Threshik/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Threshik/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Threshik/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Threshik/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Threshik/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Threshik/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Threshik/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Threshik/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Threshik/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
@@ -673,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
