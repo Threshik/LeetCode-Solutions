@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Threshik/LeetCode1/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Threshik/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Threshik/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Threshik/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Threshik/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Threshik/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Threshik/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Threshik/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Threshik/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Threshik/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Threshik/LeetCode1/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Threshik/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Threshik/LeetCode1/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Threshik/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Threshik/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Threshik/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Threshik/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Threshik/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
