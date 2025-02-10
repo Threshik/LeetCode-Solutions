@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Threshik/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Threshik/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Threshik/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Threshik/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Threshik/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Threshik/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Threshik/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Threshik/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Threshik/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Threshik/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Threshik/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/Threshik/LeetCode1/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Threshik/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Threshik/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Threshik/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Threshik/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/Threshik/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Threshik/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Threshik/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/Threshik/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Threshik/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
