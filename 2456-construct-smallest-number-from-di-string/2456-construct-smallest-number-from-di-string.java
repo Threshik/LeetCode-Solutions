@@ -1,40 +1,40 @@
 class Solution {
-    public String smallestNumber(String pattern) {
-        int n = pattern.length();
-        int[] nums =  new int[n+1];
-        //filling the nums
-        for(int i=0;i<=n;i++)
-        nums[i]=i+1;
 
-        for(int i=0;i<n;i++)
-        {
-           
-           if(i<n && pattern.charAt(i)=='D')
-           {
-                int start =i;
-                while(i<n && pattern.charAt(i)=='D')
-                i++;
-                swap(nums,start,i);
-           }
-        }
-        String res="";
-        for(int i=0;i<nums.length;i++)
-        {
-            res+=nums[i];
-        }
-        return res;
+    public String smallestNumber(String pattern) {
+        return String.valueOf(findSmallestNumber(pattern, 0, 0, 0));
     }
-    //swap logic
-    void swap(int[] nums,int i,int j)
-    {
-        while(i<j)
-        {
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-        i++;
-        j--;
+
+    // Recursively find the smallest number that satisfies the pattern
+    private int findSmallestNumber(
+        String pattern,
+        int currentPosition,
+        int usedDigitsMask,
+        int currentNum
+    ) {
+        // Base case: return the current number when the whole pattern is processed
+        if (currentPosition > pattern.length()) return currentNum;
+
+        int result = Integer.MAX_VALUE;
+        int lastDigit = currentNum % 10;
+        boolean shouldIncrement =
+            currentPosition == 0 || pattern.charAt(currentPosition - 1) == 'I';
+
+        // Try all possible digits (1 to 9) that are not yet used and follow the pattern
+        for (int currentDigit = 1; currentDigit <= 9; ++currentDigit) {
+            if (
+                (usedDigitsMask & (1 << currentDigit)) == 0 &&
+                currentDigit > lastDigit == shouldIncrement
+            ) result = Math.min(
+                result,
+                findSmallestNumber(
+                    pattern,
+                    currentPosition + 1,
+                    usedDigitsMask | (1 << currentDigit),
+                    currentNum * 10 + currentDigit
+                )
+            );
         }
-        
+
+        return result;
     }
 }
